@@ -5,7 +5,7 @@ metadata:
 spec:
   params:
     - name: url
-      value: https://github.com/maistra/istio-workspace-ci-tekton-demo-lab.git
+      value: https://github.com/lordofthejars/istio-workspace-ci-tekton-demo-lab.git
     - name: revision
       value: test
   type: git
